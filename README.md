@@ -18,6 +18,8 @@ Step 2 : And then Select FIND CARS Button in website
 
 Step 3 : Then Assessment will have filtering, sorting, add price ranges, filters.
 
+I am worked in Filter the File location is inside Home page Folder ---> Filters Folders
+
 <img width="960" alt="image" src="https://github.com/rprashanna/ZoomCar-Squadl-Technologies/assets/113758431/143120c7-4bdf-491b-aee7-c2acd67c1f12">
 
 
